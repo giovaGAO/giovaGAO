@@ -1,16 +1,15 @@
-## Hi there 👋
+Opa, eu sou a Giovanna!👋
+✨ _LINDA_ ✨
 
-<!--
-**giovaGAO/giovaGAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco de mim:
 
-Here are some ideas to get you started:
+- 🔭 Gosto de series 
+- 🌱 Tenho 18 anos
+- 👯 Gosto de tarde ensolaradas 
+- 🤔 Comida é bom tbm
+- 💬 Off
+- ⚡ Katchau!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://media1.tenor.com/m/PFDEsjEuVV8AAAAd/jujutsu-kaisen-fushiguro-megumi.gif)
